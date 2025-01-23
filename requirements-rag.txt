@@ -1,0 +1,9 @@
+openai
+pandas
+tqdm
+langchain
+langchain-community
+langchain-openai
+pymilvus
+sentence-transformers
+jq
